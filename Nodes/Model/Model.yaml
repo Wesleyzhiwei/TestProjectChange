@@ -2,7 +2,6 @@ Name: Model
 Type: ModelCategoryFolder
 Children:
 - Name: Variable1
-  Id: g=fb67afd74e1606f1600fb1ccd0bf8ace
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
